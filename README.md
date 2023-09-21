@@ -11,15 +11,36 @@ A little exercise to get started with the specification phase of the software de
 
 ## Stakeholders
 
-See instructions. Delete this line and replace with the name(s) of the stakeholder(s) you interviewed and lists showing their goals/needs, and problems/frustrations.
+- Ella, College Senior:
+  - Goals   
+    - Using social media in an engaging way
+    - Improving drawing skills
+    - Building a good habit
+    - Gameifying the process of building a new habit
+  - Frustrations
+    - Can't connect to artists around me enough
+    - Trouble finding motivation to draw
+    - Hard to track own progress 
+    - Hard to pick up new habits
 
 ## Product Vision Statement
 
-See instructions. Delete this line and place your Product Vision Statement here.
+It's an app that provides daily group drawing challeneges
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
+As an aspiring aritst, i want to draw every day, so that i can get better
+As a new user, i want to be able to easily log in, so that i can do my drawings
+As a mobile phone user, i want to be push notified for my drawings, so as to remind me to draw every day
+As a user, i want to be able to see other people's drawings, so that i can be inspired
+As a user, i want to be able to see my own drawings, so that i can track my progress
+As a drawer, i want new inspiration, so that i can keep my art fresh
+
+
+
+
+
+
 
 ## Activity Diagrams
 
