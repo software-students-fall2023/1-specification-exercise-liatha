@@ -4,7 +4,10 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-See instructions. Delete this line and replace with a list of the names of your team members, including links to each one's GitHub profile.
+ - [Lianna Poblete](https://github.com/liannnaa)
+ - [Athena Leong](https://github.com/aleong2002)
+ - [Harry Minsky](https://github.com/hminsky2002)
+
 
 ## Stakeholders
 
