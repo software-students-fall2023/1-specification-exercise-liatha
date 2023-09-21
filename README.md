@@ -35,7 +35,7 @@ As a mobile phone user, i want to be push notified for my drawings, so as to rem
 As a user, i want to be able to see other people's drawings, so that i can be inspired
 As a user, i want to be able to see my own drawings, so that i can track my progress
 As a drawer, i want new inspiration, so that i can keep my art fresh
-
+As a social media user, i want to connect to my social media, in order to share my progress with friends on other platforms
 
 
 
