@@ -55,4 +55,5 @@ so as to both give feedback and recieve it
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FI6mLj0JpgxCrvk6z5ArY7K%2FUntitled%3Ftype%3Ddesign%26node-id%3D1-5%26t%3DoQ6srVLgGAhvQeyw-1%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D1%253A291%26mode%3Ddesign" allowfullscreen></iframe>
