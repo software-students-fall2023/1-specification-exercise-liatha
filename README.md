@@ -55,5 +55,4 @@ so as to both give feedback and recieve it
 
 ## Clickable Prototype
 
-
-<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FI6mLj0JpgxCrvk6z5ArY7K%2FUntitled%3Ftype%3Ddesign%26node-id%3D1-5%26t%3DoQ6srVLgGAhvQeyw-1%26scaling%3Dmin-zoom%26page-id%3D0%253A1%26starting-point-node-id%3D1%253A291%26mode%3Ddesign" allowfullscreen></iframe>
+[Clickable Prototype on Figma](https://www.figma.com/proto/I6mLj0JpgxCrvk6z5ArY7K/Untitled?type=design&node-id=1-5&t=oQ6srVLgGAhvQeyw-1&scaling=min-zoom&page-id=0%3A1&starting-point-node-id=1%3A291&mode=design)
