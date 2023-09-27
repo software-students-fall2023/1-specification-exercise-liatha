@@ -50,6 +50,8 @@ so as to both give feedback and recieve it
 ## Activity Diagrams
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
+![uml diagram](https://github.com/software-students-fall2023/1-specification-exercise-liatha/assets/123139610/4a2f0294-6753-4673-8657-6ac626da9c20)
+
 
 ## Clickable Prototype
 
