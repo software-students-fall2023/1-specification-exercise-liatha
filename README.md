@@ -50,7 +50,7 @@ so as to both give feedback and recieve it
 ## Activity Diagrams
 
 ![uml diagram](https://github.com/software-students-fall2023/1-specification-exercise-liatha/assets/123139610/4a2f0294-6753-4673-8657-6ac626da9c20)
-![uml diagram](https://github.com/software-students-fall2023/1-specification-exercise-liatha/assets/18370464/75df9167-d1d2-4990-93f2-07d88b874a9f)
+![uml diagram2](https://github.com/software-students-fall2023/1-specification-exercise-liatha/assets/18370464/ccd07fa6-c334-45c5-a96b-cf5a6542dd06)
 
 
 ## Clickable Prototype
